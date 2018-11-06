@@ -1,0 +1,107 @@
+html,
+body,
+.backbox{
+    position: relative;
+    height: 400px;
+    /*background: darkgray;*/
+}
+
+#titlebox{
+
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-top: 50px;
+    margin-right: 5px;
+    margin-bottom: 50px;
+    margin-left: 5px;
+    text-align: center;
+    background: #630C0C;
+    color: white;
+
+}
+
+#map-id {
+    height: 150%;
+    width: 600px;
+    padding-top: 10px;
+    padding-right: 100px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-top: 5px;
+    margin-right: 25px;
+    margin-bottom: 5px;
+    margin-left: 50px;
+    border: 5px solid #630C0C;
+
+}
+
+.littlebar {
+    fill: #0A3B5B;
+}
+
+#boozyplot {
+
+    /*margin-top: 5px;*/
+    
+    margin-right: 5px;
+    margin-bottom: 10px;
+    margin-left: 25px;
+    margin-top: 10px;
+    background-color: #DDDED8;
+    border: 5px solid #630C0C;
+
+}
+
+#rateplot {
+
+    /*margin-top: 5px;*/
+    position:relative;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    margin-left: 25px;
+    background-color: #DDDED8;
+    border: 5px solid #630C0C;
+}
+
+#list{
+    height: 100%;
+    padding: 10;
+    margin: 10;
+}
+
+#beerlist{
+    height: 200px;
+    overflow-y: scroll;
+    background: #DDDED8;
+}
+
+#minibox{
+    color: #630C0C;
+}
+
+.beerbutton {
+    display: block;
+    background: none;
+    border: none;
+    text-align: left;
+    color: #AF0808;
+}
+
+.beerinfo {
+    display: block;
+}
+
+#cheesecake{
+    color: #95A50D;
+    vertical-align: top;
+}
+
+#toast{
+    line-height: 14px;
+}
+.tooltip{
+    background: "white";
+    color: black;
+}
